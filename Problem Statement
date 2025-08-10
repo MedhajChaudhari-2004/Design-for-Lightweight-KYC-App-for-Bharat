@@ -1,0 +1,47 @@
+Problem Statement 
+
+Design a Lightweight KYC App for Bharat
+
+Context:
+
+You are the Associate Product Manager at a tech startup building digital onboarding solutions. Your company is launching a mobile app targeting rural and semi-urban India, where smartphone specs are low-end, bandwidth is limited and users may not be digitally literate.
+
+The app must support:
+
+- Digilocker-based KYC
+- Document-based KYC (Aadhaar, PAN, DL, VoterID)
+- Face authentication (liveness, facematch checks)
+- Integration with other client apps (SDK integration, web-redirection, etc.)
+- Offline & retry-friendly mode
+
+**Your Task**: Design the KYC solution end-to-end, keeping in mind the following:
+
+1. Product Design & UX:
+
+- How will the app work for users with low digital literacy?
+- What will the user flow look like (screens, guidance, fail-safes)? Create wireframes.
+- What offline/low-network support will you offer?
+
+2. Features:
+
+- Suggest and implement 2-3 innovative features to improve trust or ease of use using LLMs.
+- How will you prioritise which features to build? Create a Prioritisation Matrix
+
+3. Technical Architecture:
+
+- How will you optimize SDK size?
+- What trade-offs will you make between on-device vs server-side processing (e.g., facematch, liveness)?
+- How will you handle low bandwidth and retry/resume flows?
+
+4. Miscellaneous:
+
+- How would you measure the success of the app?
+- Any security concerns and how you’ll solve them?
+
+Feel free to use LLMs, and AI-tools such as Lovable to work on this assignment. However, please ensure the submission is completely original.
+
+Final Deliverables:
+
+1. Deck/PPT in .pdf format
+2. A short video (not more than 5 mins) of you explaining the deck, your thought process to arrive at the problem statement, and how you arrived at the final solution.
+    1. Ensure the deck is also visible along with you while presenting.
